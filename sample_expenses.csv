@@ -1,0 +1,5 @@
+Name,Category,Amount,Date,PaymentMethod
+Groceries,Food,1200,2025-07-18,cash
+Electricity,Bills,750,2025-07-17,card
+Movie Tickets,Entertainment,500,2025-07-15,cash
+Books,Education,850,2025-07-12,card
